@@ -7,8 +7,7 @@
 
 <p>Message: ${msg}</p>
 
-
-<a href = "/webxml/second-page">second-page</a>
+<a href = "/webxml">front-page</a>
 
 </body>
 </html>
